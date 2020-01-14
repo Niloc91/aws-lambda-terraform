@@ -1,5 +1,6 @@
+
 variable "master_account_id" {
-  default = "<AWS_ACCOUNT_ID"
+  default = "<AWS_ACCOUNT_ID>"
 }
 
 variable "region" {
